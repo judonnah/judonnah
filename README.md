@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judonnah
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain development
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning pen test
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me judahoha@gmail.com
 
